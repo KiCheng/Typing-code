@@ -1,0 +1,77 @@
+********* Encode ***********
+
+=========重用韵母(6)===========
+"v"---"ui"
+"ei"---"ue"
+"ou"---"iong"
+"ua"---"ing"
+"ian"---"uai"
+"iao"---"uang"
+"o"---"uo"
+==========零声母(12)===========
+AA 代表: a
+AI 代表: ai
+AN 代表: an
+AH 代表: ang
+AO 代表: ao
+EE 代表: e
+EI 代表: ei
+EN 代表: en
+EG 代表: eng
+ER 代表: er
+OO 代表: o
+OU 代表: ou
+==========声母代表(23)============
+V 代表: zh
+U 代表: sh
+I 代表: ch
+D 代表: d
+J 代表: j
+Y 代表: y
+G 代表: g
+Z 代表: z
+L 代表: l
+X 代表: x
+H 代表: h
+B 代表: b
+T 代表: t
+M 代表: m
+W 代表: w
+Q 代表: q
+F 代表: f
+R 代表: r
+N 代表: n
+C 代表: c
+S 代表: s
+K 代表: k
+P 代表: p
+A 代表: -
+E 代表: -
+O 代表: -
+===========【韵母分配】=============
+U 代表: iang
+I 代表: iao \ uang
+L 代表: uan
+X 代表: ang
+W 代表: ian \ uai
+N 代表: eng
+P 代表: ong
+D 代表: uo
+J 代表: ve
+Y 代表: ia
+V 代表: iu
+G 代表: un
+Z 代表: in
+H 代表: ao
+B 代表: ou \ iong
+T 代表: ei \ ue
+Q 代表: ua \ ing
+R 代表: ai
+C 代表: ie
+S 代表: en
+K 代表: an
+M 代表: v \ ui
+F 代表: a
+A 代表: u
+E 代表: e
+O 代表: i
